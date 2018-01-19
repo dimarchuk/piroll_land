@@ -1,0 +1,6 @@
+.idea/
+node_modules/
+piroll_land/css/
+piroll_land/js/application.js
+piroll_land/js/application.min.js
+prod/
